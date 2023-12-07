@@ -20,7 +20,7 @@
 * curl
   * 様々な通信プロトコルでデータの送受信を行える
 * asdf
-  * $ asdf plugin list all
+  * ```asdf plugin list all```
     * 全てのプラグインを表示
   * $ asdf list <パッケージ名>
     * 特定のバージョンを表示
