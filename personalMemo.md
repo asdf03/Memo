@@ -22,7 +22,7 @@
 * asdf
   * ```asdf plugin list all```
     * 全てのプラグインを表示
-  * $ asdf list <パッケージ名>
+  * ```$ asdf list <パッケージ名>```
     * 特定のバージョンを表示
 ## SQL
 * use
