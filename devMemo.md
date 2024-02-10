@@ -8,3 +8,7 @@
 * volumesではマイグレーションの設定を行っている。
   * マイグレーションはデータ移行という意味で、レガシーからモダンなシステムへ移行する再などに使用される
 * 実行ログは各Dockerファイル内の自動的に指定された場所にJSON形式で記述される
+
+
+## エイリアス設定
+* alias startforcas='cd ~/source/forcas/environment && docker compose up -d && cd ../forcas-front && yarn dev'
